@@ -1,4 +1,4 @@
 # Pratik-demo
 This is my first Git repositary.
 <br>
-Author : Pratik Prajapati
+Author : Pratik (Apna Pratik)
